@@ -5,7 +5,7 @@ from news.models import News
 
 from unittest import skip
 
-
+# hello
 @skip('Пример')
 class TestNews(TestCase):
     # Все нужные переменные сохраняем в атрибуты класса.
